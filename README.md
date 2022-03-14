@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @snehaalex96
 - 👀 I’m interested in Data analytics, machine learning , cloud computing and software developmet
 - 🌱 I’m currently learning MSc Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - snehaalexgrace@gmail.com
 
 <!---
