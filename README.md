@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data analytics, machine learning , cloud computing and software developmet
 - 🌱 I’m currently learning MSc Artificial Intelligence and Data Science
 - 📫 How to reach me - snehaalexgrace@gmail.com
+- NB : Hey most of my projects were done locally and I recently pushed to github ! 
 
 <!---
 snehaalex96/snehaalex96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
